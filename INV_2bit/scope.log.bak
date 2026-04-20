@@ -1,0 +1,47 @@
+Mdi:ArrangeIcons
+Mdi:ArrangeIcons
+Mdi:ArrangeIcons
+wm geometry . 900x785+8+85
+Mdi:ArrangeIcons
+Mdi:ArrangeIcons
+wm geometry . 900x785+202+77
+Mdi:ArrangeIcons
+Mdi:ArrangeIcons
+Mdi:ArrangeIcons
+Mdi:ArrangeIcons
+Mdi:ArrangeIcons
+Mdi:ArrangeIcons
+Mdi:ArrangeIcons
+wm geometry . 1536x860+0+23
+Mdi:ArrangeIcons
+wm geometry . 900x785+202+77
+Mdi:ArrangeIcons
+wm geometry . 1536x860+0+23
+Mdi:ArrangeIcons
+wm geometry . 1536x860+8+31
+Mdi:ArrangeIcons
+wm geometry . 1536x860+0+23
+Mdi:ArrangeIcons
+wm geometry . 1536x860+8+31
+Mdi:ArrangeIcons
+wm geometry . 1536x860+0+23
+Mdi:ArrangeIcons
+Mdi:ArrangeIcons
+ScopeSigMgr:loadpffile /filespace/r/rmwhite4/ece555/ECE555/INV_2bit/test.tr0 1 openonly
+# PF:1
+wm geometry .sigmgr._PF:1 232x242+768+480
+wm geometry .sigmgr._PF:1 232x495+768+227
+pf:read PF:1 v(in<0>) v(in<1>) v(out<0>) v(out<1>)
+# WF:1:1 WF:1:2 WF:1:3 WF:1:4
+Graph addsignal {WF:1:1 WF:1:2 WF:1:3 WF:1:4} -region {new new new new} -yview {real(y) real(y) real(y) real(y)} -xview {real(x) real(x) real(x) real(x)} -tracehi {2 2 2 2}
+# Signal0 Signal1 Signal2 Signal3
+Mdi:ArrangeIcons
+Mdi:ArrangeIcons
+Mdi:Resize 714 542
+Mdi:Move 5 5
+Mdi:ArrangeIcons
+Mdi:ArrangeIcons
+Mdi:ArrangeIcons
+Mdi:ArrangeIcons
+Mdi:ArrangeIcons
+Mdi:ArrangeIcons
