@@ -176,7 +176,6 @@ Top-level neuron cell that integrates the multiplier array with accumulation and
 |------|---------|
 | Cadence Virtuoso | Schematic capture, layout, LVS/DRC |
 | HSPICE (Synopsys) | SPICE simulation (via Maestro ADE) |
-| University CAE Server | `RHEL30` Linux environment (`linux-2628.cae.wisc.edu`) |
 
 ---
 
