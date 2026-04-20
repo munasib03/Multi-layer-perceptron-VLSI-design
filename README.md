@@ -191,5 +191,6 @@ Top-level neuron cell that integrates the multiplier array with accumulation and
 
 ## Authors
 
+Authors: Munasib Ilham, M Sadman Sakib, Kyle Bartel, Rex White
 ECE 555 — VLSI Design, University of Wisconsin–Madison  
 Design files generated: October–November 2025
